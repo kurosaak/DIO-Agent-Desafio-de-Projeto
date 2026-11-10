@@ -83,15 +83,24 @@ Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada p
 
 ### Estudar
 
-_Cole o print da explicação._
+<img width="1920" height="1080" alt="{584EB0D1-F721-4F5A-AEB4-859A0F75AACE}" src="https://github.com/user-attachments/assets/177583db-a185-43e0-bbcd-dd467d0721f1" />
+
+<img width="1920" height="1080" alt="{85A329FF-DC71-49E9-859D-491F062CC7C2}" src="https://github.com/user-attachments/assets/738abf3a-d230-4867-98b3-c10c56131dd4" />
+
 
 ### Praticar
 
-_Cole o print da dica que destravou você._
+<img width="1920" height="1080" alt="{DA1A671A-4F28-41E8-BCEA-C6E965642793}" src="https://github.com/user-attachments/assets/611ed75f-cb55-4daa-9403-0c59cd40cea7" />
+
+<img width="1920" height="1080" alt="{A5970489-6E4E-418D-823D-29B28D03036F}" src="https://github.com/user-attachments/assets/5acc1d2d-1a0e-4e18-8ee2-fa7ba005e980" />
+
 
 ### Planejar
 
-_Cole o print do seu plano de estudos._
+<img width="1920" height="1080" alt="{8EF5C999-0545-48A7-9EDD-99A15E439E0C}" src="https://github.com/user-attachments/assets/a4206558-cf8c-4dc5-9ed6-f31d7e97ff01" />
+
+<img width="1920" height="1080" alt="{48035B35-5F01-4FF6-B671-7EA2BBBB1FC9}" src="https://github.com/user-attachments/assets/4139e720-5c08-4380-8b6f-f9e676337c41" />
+
 
 ### Como foi para você
 
