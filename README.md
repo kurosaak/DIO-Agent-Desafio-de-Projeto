@@ -101,7 +101,9 @@ Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada p
 
 <img width="1920" height="1080" alt="{48035B35-5F01-4FF6-B671-7EA2BBBB1FC9}" src="https://github.com/user-attachments/assets/4139e720-5c08-4380-8b6f-f9e676337c41" />
 
+<img width="1920" height="1080" alt="{39570158-C235-4DC3-A21D-06C4700EF4E7}" src="https://github.com/user-attachments/assets/b765152a-970b-49f0-811a-a2d68e5a5bbc" />
+
 
 ### Como foi para você
 
-_Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
+Mesmo sendo iniciante, achei muito prático, me ajudou a ter outra perspectiva quando o assunto é "construir com IA". Não vejo a hora de começar a criar o meu próprio agente. 
